@@ -1,0 +1,13 @@
+{
+  "name": "genpark-virtual-structure-formation-control-skill",
+  "version": "1.0.0",
+  "description": "Rigid virtual structure formation controller mapping leader-follower affine transformations, rotation matrices, and geometric keeping.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "virtual-structure",
+    "formation-control",
+    "swarm-geometry",
+    "uav-formation"
+  ]
+}
